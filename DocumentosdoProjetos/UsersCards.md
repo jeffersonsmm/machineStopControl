@@ -1,8 +1,10 @@
-# 1. desenvolvedor
-# 2. software
-# 3. cliente
-# 4. maquina
-# 5. sensor
+# ATORES
+
+# 1. Desenvolvedor
+# 2. Software
+# 3. Cliente
+# 4. Maquina
+# 5. Sensor
 
 
 

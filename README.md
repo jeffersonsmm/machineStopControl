@@ -1,4 +1,4 @@
-# ControleDeParadasDeMaquinas
+# :boom::boom:ControleDeParadasDeMaquinas:boom::boom:
 
 ###### Projeto da disciplina de Engenharia de Software II, do curso de Ciência da Computação da Universidade do Oeste de Santa Catarina (Unoesc).
 
@@ -12,5 +12,7 @@
 * ###### Denis Deminiciano; 
 * ###### Eduardo Falcão; [Facebook](http://fb.me/eduardoofalcaoo)
 * ###### Jefferson S M de Matos; [Facebook](http://fb.me/jeffersonsilviomeirelesdematos)
+
+:shipit:
 
 

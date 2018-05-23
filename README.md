@@ -16,8 +16,6 @@
 
 
 
-  
-   
-    
-     
+
+
 :large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle::large_blue_circle:

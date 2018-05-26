@@ -2,8 +2,6 @@
 /**
  * Created by PhpStorm.
  * User: jefferson
- * Date: 25/05/2018
- * Time: 19:48
  */
 
 include ('Parada.php');
